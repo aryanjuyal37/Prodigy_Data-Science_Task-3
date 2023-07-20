@@ -1,4 +1,4 @@
-# Data Cleaning and EDA - Adult Census Income Dataset
+# Decision Tree Classification - Adult Census Income Dataset
 
 This repository contains code and resources for Decision Tree Classification on the Adult Census Income dataset. The dataset provides demographic information about individuals and their income levels.
 
